@@ -1,1 +1,1 @@
-This is a shell repository for manipulating files
+my first permission in git using shell
